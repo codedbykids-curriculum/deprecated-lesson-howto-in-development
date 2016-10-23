@@ -2,7 +2,7 @@
 
 A "How to..." template project. Can be used for recipes, tutorials, etc.
 
-![status: ready](https://img.shields.io/badge/status-ready-brightgreen.svg)
+![state: building/designing](https://img.shields.io/badge/status-building%2fdesigning-orange.svg)
 
 # [Project name]
 
