@@ -16,6 +16,6 @@ Project coordinator: [Volunteer name]
 
 **HTML**
 
-1. [ ] html tags
-2. [ ] head tags
-3. ...
+- [ ] html tags
+- [ ] head tags
+- [ ] ...
