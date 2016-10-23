@@ -15,6 +15,7 @@ Project coordinator: [Volunteer name]
 ### Level 1
 
 **HTML**
+
 1. [ ] html tags
 2. [ ] head tags
-...
+3. ...
